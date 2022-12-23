@@ -1,0 +1,1 @@
+{"description": "123", "maintainers": ["babelway"], "checks": ["build", "sonar"]}
